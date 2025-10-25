@@ -1,4 +1,4 @@
-# Cloudflare Total Manager – by Saitt01
+# Cloudflare Total Manager 
 
 **Cloudflare Total Manager** è un tool scritto in **Python** che centralizza in un unico sistema tutte le automazioni realizzate tramite le **API ufficiali di Cloudflare**.  
 Nasce per semplificare la gestione di più domini in modo scalabile, mantenendo i processi ordinati, automatizzati e versionati.
@@ -45,4 +45,5 @@ https://developers.cloudflare.com/api/
 ---
 ## Licenza
 Distribuito sotto licenza MIT.
+
 Libero utilizzo per scopi personali, educativi e di automazione infrastrutturale.
